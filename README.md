@@ -27,6 +27,12 @@ Our study explores a **multi-dataset approach**, improving the model's generaliz
 - **`Training by Adding Noises/`** - Models trained with artificially introduced adversarial noise to test model robustness.
 - **`Training by Employing Randomness in Images/`** - Models trained with image inconsistencies such as blur, contrast, brightness variations, and other distortions to analyze how classification performance is affected and whether accuracy remains stable.
 
+### 4. Research Documents
+
+- **Revised_Manuscript_UnderReview.pdf** - Our latest research manuscript currently under review.
+- **README.md** - This file, providing an overview of the project.
+
+
 ## **Key Contributions of Our Research**
 - **Enhanced Waste Classification Model**: Utilized **DenseNet201** with a **Parallel CNN architecture** and **SE attention mechanism**, significantly improving classification accuracy and efficiency.
 - **Multi-Dataset Evaluation**: Unlike conventional single-dataset studies, we assessed our model on four primary datasets and three additional datasets, increasing generalization and applicability.
