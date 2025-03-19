@@ -3,7 +3,7 @@
 ## Repository Overview
 This repository contains datasets, models, and research materials related to our study on waste classification using deep learning. The research employs **DenseNet201**, combined with a **parallel CNN architecture** and a **squeeze-and-excitation (SE) attention mechanism**, to enhance feature extraction and optimize classification accuracy.
 
-Our study explores a **multi-dataset approach**, improving the model's generalizability across different waste compositions. Additionally, **energy consumption and CO2 emission tracking** are incorporated to evaluate the sustainability of our methodology. **A rigorous evaluation was conducted to analyze the model's performance when subjected to additional adversarial noises and image inconsistencies** such as variations in contrast, brightness, and blurriness. We have also developed a **user-friendly web system** for real-world waste classification applications, which is currently hosted locally.
+This study explores a **multi-dataset approach**, improving the model's generalizability across different waste compositions. Additionally, **energy consumption and CO2 emission tracking** are incorporated to evaluate the sustainability of our methodology. **A rigorous evaluation was conducted to analyze the model's performance when subjected to additional adversarial noises and image inconsistencies** such as variations in contrast, brightness, and blurriness. I have also developed a **user-friendly web system** for real-world waste classification applications, which is currently hosted locally.
 
 ## Folder Structure
 
