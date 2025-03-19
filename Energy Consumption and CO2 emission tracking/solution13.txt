@@ -1,0 +1,4 @@
+We appreciate the reviewer’s comment about the model’s energy consumption. To address this, we measured the energy consumption during training. The total energy consumed for training the model over 40 epochs was 1461.92 Joules. While this is reasonable for the current scope of our project, we acknowledge that energy consumption can scale significantly in large deployments, which is an important factor for sustainable waste management.
+
+To mitigate this, we plan to explore techniques such as model optimization, quantization, and using more energy-efficient hardware in future deployments.
+
