@@ -39,12 +39,14 @@ This study explores a **multi-dataset approach**, improving the model's generali
 - **Web-Based Implementation**: Developed a **Gradio-based web system** for real-time waste classification, currently deployed on a local server with potential for large-scale use in waste management.
 - **Energy and Sustainability Monitoring**: Tracked **energy consumption and CO2 emissions** during model training and inference to assess environmental impact and sustainability.
 - **Adversarial and Image Variability Testing**: Analyzed model performance by introducing adversarial noise and image inconsistencies to evaluate classification robustness under challenging conditions.
+- **Explainability via Grad-CAM Visualization**: Incorporated **Grad-CAM-based heatmap visualizations** to highlight discriminative image regions, enabling **transparent decision-making** and enhancing the **interpretability** of the model’s predictions.
+
+
 
 
 ## **Future Directions**
 - Expanding dataset diversity to improve model robustness.
 - Exploring lightweight models for deployment on **edge devices**.
-- Enhancing interpretability using **Explainable AI (XAI) techniques**.
 
 For any inquiries or collaboration opportunities, feel free to contact us!
 
